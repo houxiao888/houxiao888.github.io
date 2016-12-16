@@ -1,5 +1,6 @@
 # Learn to build my own blog
-### Markdown quote
+---
+### Markdown quote#
 ```
 # 一级标题
 ## 二级标题
@@ -35,4 +36,3 @@
 | zebra stripes | are neat      |    $1 |
 ```
 update 20161216
----
