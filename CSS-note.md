@@ -22,7 +22,7 @@ favicon图标：
 
 2016-12-28
 ```
-div布局时遇到margin-top嵌套问题，查到：块级元素的垂直相邻外边距会合并。
+div布局时遇到margin-top嵌套问题，查到原因：块级元素的垂直相邻外边距会合并。
 解决办法：
 1、在父层div加上：overflow:hidden； 
 2、把margin-top外边距改成padding-top内边距 ； 
