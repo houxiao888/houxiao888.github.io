@@ -4,3 +4,4 @@
 - [Mrakdown note](/Markdown-note.md)  
 - [Html note](/Html-note.md)
 - [CSS note](/CSS-note.md)   
+- [Design Style Guide note](/design-style-guide-note.md)
