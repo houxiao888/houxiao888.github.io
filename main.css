@@ -1,0 +1,135 @@
+ @charset "utf-8";
+ body,
+ div,
+ address,
+ blockquote,
+ iframe,
+ ul,
+ ol,
+ dl,
+ dt,
+ dd,
+ li,
+ dl,
+ h1,
+ h2,
+ h3,
+ h4,
+ pre,
+ table,
+ caption,
+ th,
+ td,
+ form,
+ legend,
+ fieldset,
+ input,
+ button,
+ select,
+ textarea {
+     margin: 0;
+     padding: 0;
+     font-style: normal;
+     font: 12px/22px Arial, Helvetica, sans-serif;
+ }
+ 
+ ol,
+ ul,
+ li {
+     list-style: none;
+ }
+ 
+ body {
+     color: #000000;
+     background: #FCFCFC;
+     text-align: center;
+ }
+ 
+ .clear {
+     clear: both;
+     height: 1px;
+     width: 100%;
+     overflow: hidden;
+     margin-top: -1px;
+ }
+ 
+ a {
+     color: #000000;
+     text-decoration: none;
+ }
+ 
+ a:hover {
+     color: #BA2636;
+     text-decoration: underline;
+ }
+ 
+ .red,
+ .red a {
+     color: #F00;
+ }
+ 
+ .lan,
+ .lan a {
+     color: #1E51A2;
+ }
+ 
+ .center-white-panel {
+     margin: 100px auto;
+     padding-top: 34px;
+     width: 480px;
+     height: 480px;
+     background: #FFFFFF;
+     box-shadow: 0 2px 22px 0 #ECECEC;
+     border-radius: 20px;
+ }
+ 
+ .img-qrcode {
+     margin: 0 auto;
+     width: 258px;
+     height: 258px;
+     background: url(qrcode.png) no-repeat;
+ }
+ 
+ .porfolio-link {
+     width: 168px;
+     height: 32px;
+     margin: 50px auto;
+ }
+ 
+ .github-link {
+     width: 32px;
+     height: 32px;
+     float: left
+ }
+ 
+ .behance-link {
+     width: 33px;
+     height: 22px;
+     float: left;
+     margin-left: 30px;
+     margin-top: 5px
+ }
+
+.twitter-link {
+      width: 32px;
+     height: 27px;
+     float: left;
+     margin-left: 30px;
+    margin-top: 3px;
+}
+
+.txt-qrcode {
+    
+}
+
+#WeChat-txt1 {
+    font-size: 16px;
+    color: #4A4A4A;
+}
+
+#WeChat-txt2 {
+   font-size: 12px;
+   color: #F65F23; 
+    margin-top: -10px;
+}
+
