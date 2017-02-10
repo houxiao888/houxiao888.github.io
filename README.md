@@ -1,10 +1,10 @@
-# Slef-leanring
+# My blog 
+
+Hi，I’m 猴子无脑，a designer and life-learner from China.
 
 ### Content
-- [Mrakdown note](/Markdown-note.md)  
-- [Html note](/Html-note.md)
-- [CSS note](/CSS-note.md)   
-- [Design Style Guide note](/design-style-guide-note.md)
+- [code]()
+- [design]()
 
 ### Contact
 ![](/qrcode.png)
