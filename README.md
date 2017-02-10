@@ -2,11 +2,9 @@
 
 Hi，I’m 猴子无脑，a designer and life-learner from China.
 
-### Content
-- [code]()
-- [design]()
+- email: houxiao888@gmail.com
+- weChat:
 
-### Contact
-![](/qrcode.png)
+ ![](/qrcode.png)
 
-- mail: houxiao888@gmail.com
+
