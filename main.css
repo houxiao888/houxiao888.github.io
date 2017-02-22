@@ -100,24 +100,33 @@
  .github-link {
      width: 32px;
      height: 32px;
-     float: left
+     float: left;
+     margin-left: 20px;
  }
+.github-link:hover {
+    opacity: 0.6;
+}
  
  .behance-link {
      width: 33px;
      height: 22px;
      float: left;
-     margin-left: 30px;
+     margin-left: 10px;
      margin-top: 5px
  }
+.behance-link:hover {
+    opacity: 0.6;  
+}
+
 
 .dribbble-link {
       width: 34px;
      height: 34px;
      float: left;
-     margin-left: 30px;
+     margin-left: 20px;
     margin-top: 3px;
 }
+
 
 .txt-qrcode {
     
@@ -133,4 +142,6 @@
    color: #F65F23; 
     margin-top: -10px;
 }
-
+.dribbble-link:hover {
+    opacity: 0.6;
+}
