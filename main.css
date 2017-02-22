@@ -1,0 +1,153 @@
+ @charset "utf-8";
+ 
+ div,
+ address,
+ blockquote,
+ iframe,
+ ul,
+ ol,
+ dl,
+ dt,
+ dd,
+ li,
+ dl,
+ h1,
+ h2,
+ h3,
+ h4,
+ pre,
+ table,
+ caption,
+ th,
+ td,
+ form,
+ legend,
+ fieldset,
+ input,
+ button,
+ select,
+ textarea {
+     margin: 0;
+     padding: 0;
+     font-style: normal;
+     font: 12px/22px Arial, Helvetica, sans-serif;
+ }
+ 
+ ol,
+ ul,
+ li {
+     list-style: none;
+ }
+ 
+ body {
+     color: #000000;
+     background: #FCFCFC;
+     text-align: center;
+ }
+ 
+ .clear {
+     clear: both;
+     height: 1px;
+     width: 100%;
+     overflow: hidden;
+     margin-top: -1px;
+ }
+ 
+ a {
+     color: #000000;
+     text-decoration: none;
+ }
+ 
+ a:hover {
+     color: #BA2636;
+     text-decoration: underline;
+ }
+ 
+ .red,
+ .red a {
+     color: #F00;
+ }
+ 
+ .lan,
+ .lan a {
+     color: #1E51A2;
+ }
+ 
+ .center-white-panel {
+     margin: 1% 30%;
+     padding-top: 34px;
+     width: 40%;
+     min-width: 480px;
+     height: 50%;
+     background: #FFFFFF;
+     box-shadow: 0 2px 22px 0 #ECECEC;
+     border-radius: 20px;
+ }
+ 
+ .img-qrcode {
+     margin: 0 auto;
+     width: 258px;
+     height: 258px;
+     background: url(qrcode.png) no-repeat;
+ }
+ 
+ .porfolio-link {
+     width: 168px;
+     height: 32px;
+     margin: 50px auto;
+ }
+ 
+ .github-link {
+     width: 32px;
+     height: 32px;
+     float: left;
+     margin-left: 20px;
+ }
+.github-link:hover {
+    opacity: 0.6;
+}
+ 
+ .behance-link {
+     width: 33px;
+     height: 22px;
+     float: left;
+     margin-left: 10px;
+     margin-top: 5px
+ }
+.behance-link:hover {
+    opacity: 0.6;  
+}
+
+
+.dribbble-link {
+      width: 34px;
+     height: 34px;
+     float: left;
+     margin-left: 20px;
+    margin-top: 3px;
+}
+
+
+.txt-qrcode {
+    
+}
+
+#WeChat-txt1 {
+    font-size: 16px;
+    color: #4A4A4A;
+}
+
+#WeChat-txt2 {
+   font-size: 12px;
+   color: #F65F23; 
+    margin-top: -10px;
+}
+.dribbble-link:hover {
+    opacity: 0.6;
+}
+
+.myname {
+    font-size: 30px;
+    color: #9B9B9B;
+    margin-top: 5%;
+}
