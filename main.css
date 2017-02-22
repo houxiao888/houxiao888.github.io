@@ -74,7 +74,7 @@
  }
  
  .center-white-panel {
-     margin: 10% 50%;
+     margin: 1% 30%;
      padding-top: 34px;
      width: 40%;
      min-width: 480px;
@@ -149,5 +149,5 @@
 .myname {
     font-size: 30px;
     color: #9B9B9B;
-    margin-top: 10%;
+    margin-top: 5%;
 }
