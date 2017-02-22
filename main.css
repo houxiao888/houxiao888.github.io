@@ -74,7 +74,7 @@
  }
  
  .center-white-panel {
-     margin: 100px auto;
+     margin: 10% 50%;
      padding-top: 34px;
      width: 40%;
      min-width: 480px;
@@ -144,4 +144,10 @@
 }
 .dribbble-link:hover {
     opacity: 0.6;
+}
+
+.myname {
+    font-size: 30px;
+    color: #9B9B9B;
+    margin-top: 10%;
 }
